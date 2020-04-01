@@ -147,3 +147,4 @@ This is a repository of the study "neural network acceleration". The goal of thi
 **Main Contributor**: Constant Park (sonicstage12@naver.com)  
 **Presenters**: Constanr Park (sonicstage12@naver.com), 이제민 (leejaymin@cnu.ac.kr), 김태완 (rlaxodhksk@snu.ac.kr), DownyK (TeamBehindDowny@gmail.com), 전지혜 (jyeah05@gmail.com), Martin (dhhwang89@gmail.com), 김용우 (guruzoa@gmail.com), 
 (rlatjrwnd242@naver.com)
+.
