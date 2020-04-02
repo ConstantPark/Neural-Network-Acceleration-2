@@ -44,14 +44,14 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	1. MLPerf: An Industry Standard Benchmark Suite for Machine Learning Performance,. MICRO, 2020
 	
 ## Presentation with Video
-### Week1: Introduction of Neural network acceleration (February 02, 2020)
-**Optimal DNN Primitive Selection with Partitioned Boolean quadratic Programming**  
+### Week1: Introduction (April 13, 2020)
+**GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism**
 
 	Presenter: Constant Park (http://esoc.hanyang.ac.kr/people/sangsoo_park/index.html)  
-	PPT: https://github.com/ConstantPark/Nerual-Network-Acceleration/blob/master/Optimal%20DNN%20Primitive%20Selection%20with%20Partitioned%20Boolean%20Quadratic%20Programming.pdf   
-	Video: https://youtu.be/ZLGLogU5mt0   
+	PPT: 
+	Video: 
 
 
 ## Contributors
-**Main Contributor**: Constant Park (sonicstage12@naver.com), 
-**Presenters**: 
+**Main Contributor**: Constant Park (sonicstage12@naver.com), 이재윤 (v2fds@naver.com), 이원혁 (ok_skman@naver.com), 임현택 (loo3944@naver.com)
+**Presenters**: Constant Park (sonicstage12@naver.com), 이재윤 (v2fds@naver.com), 이원혁 (ok_skman@naver.com), 임현택 (loo3944@naver.com)
