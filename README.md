@@ -15,7 +15,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 - Non-HBM based implementation or research
 
 ## Paper List (20)
-### CPU/GPU/NPU based Acceleration (3)
+### CPU/GPU/NPU based Acceleration (13)
 	1. Capuchin: Tensor-based GPU Memory Management for Deep Learning, ASLPOS, 2020
 	2. Parallax: Sparsity-aware Data Parallel Training of Deep Neural Networks, EuroSys, 2019
 	3. GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism, NIPS, 2019
