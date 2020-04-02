@@ -15,7 +15,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 - Non-HBM based implementation or research
 
 ## Paper List (17)
-### Processor based Acceleration (9)
+### CPU and GPU based Acceleration (9)
 	CPU, GPU, and special system based acceleration (Parallel computing, Distribution computing)
 	1. AccUDNN: A GPU Memory Efficient Accelerator for Training Ultra-deep Neural Networks, arxiv, 2019.
 	2. Zion: Facebook Next-Generation Large-memory Unified Training Platform, HotChips, 2019.
