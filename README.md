@@ -48,7 +48,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 ### Week1: Introduction (April 13, 2020)
 **GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism**
 
-	Presenter: Constant Park (http://esoc.hanyang.ac.kr/people/sangsoo_park/index.html)  
+	Presenter: Constant Park (sonicstage12@naver.com)  
 	PPT: 
 	Video: 
 
