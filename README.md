@@ -1,5 +1,5 @@
 ## Neural Network Acceleration Study Season #2
-This is a repository of the study "neural network acceleration". The goal of this study is to understand the acceleration of nerual networks on various devices. The topic of acceleration includes `CPU`, `GPU`, `FPGA`, `ASIC`, `NPU` and `PIM`. Our materials are open to this github and youtube. This study is supported by Facebook community, "AI Robitcs Korea".
+This is a repository of the study "neural network acceleration". The goal of this study is to understand the acceleration of nerual networks on various devices. The topic of acceleration includes `CPU`, `GPU`, `FPGA`, `ASIC`, `NPU`, and `PIM`. Our materials are open to this github and youtube. This study is supported by Facebook community, "AI Robitcs Korea".
 
 #### CPU/GPU and NPU
 - Desinging optimized BLAS for CPU or GPU
@@ -14,8 +14,8 @@ This is a repository of the study "neural network acceleration". The goal of thi
 - Data processing unit for neural network acceleration
 - Non-HBM based implementation or research
 
-## Paper List (21)
-### CPU/GPU/NPU based Acceleration (14)
+## Paper List (20)
+### CPU/GPU/NPU based Acceleration (13)
 	1. Capuchin: Tensor-based GPU Memory Management for Deep Learning, ASLPOS, 2020
 	2. Parallax: Sparsity-aware Data Parallel Training of Deep Neural Networks, EuroSys, 2019
 	3. GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism, NIPS, 2019
@@ -29,7 +29,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	11. PatDNN: Achieving Real-Time DNN Execution on Mobile Devices with Pattern-based Weight Pruning, ASLOPS, 2020
 	12. FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System, ASLOPS, 2020
 	13. GPU-Accelerated Atari Emulation for Reinforcement Learning, arxiv, 2019 
-	14. TResNet: High Performance GPU-Dedicated Architecture, arxiv, 2020
+	14. https://arxiv.org/abs/2003.13630, arxiv, 2020
 
 ### Dedicated neural network accelerator (5)
 	1. Caffeine: Toward Uniformed Representation and Acceleration for Deep Convolutional Neural Networks, IEEE TCAD, 2019
@@ -48,11 +48,11 @@ This is a repository of the study "neural network acceleration". The goal of thi
 ### Week1: Introduction (April 13, 2020)
 **GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism**
 
-	Presenter: Constant Park (sonicstage12@naver.com)  
+	Presenter: Constant Park (http://esoc.hanyang.ac.kr/people/sangsoo_park/index.html)  
 	PPT: 
 	Video: 
 
 
 ## Contributors
-**Main Contributor**: Constant Park (sonicstage12@naver.com), 이재윤 (v2fds@naver.com), 이원혁 (ok_skman@naver.com), Hyuntak Lim (loo3944@naver.com)  
-**Presenters**: Constant Park (sonicstage12@naver.com), 이재윤 (v2fds@naver.com), 이원혁 (ok_skman@naver.com), Hyuntak Lim (loo3944@naver.com)
+**Main Contributor**: Constant Park (sonicstage12@naver.com), Louis Lee (louislee111@naver.com), 이재윤 (v2fds@naver.com), 임현택 (loo3944@naver.com)
+**Presenters**: Constant Park (sonicstage12@naver.com), 이재윤 (v2fds@naver.com), 임현택 (loo3944@naver.com), Louis Lee (louislee111@naver.com)
