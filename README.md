@@ -3,16 +3,16 @@ This is a repository of the study "neural network acceleration". The goal of thi
 
 #### CPU/GPU and NPU
 - Desinging optimized BLAS for CPU or GPU
-- Optimal primitive selection on heterogeneous system architecture (HSA) device
+- Heterogeneous system architecture (HSA) device
 - CUDA/OpenCL kernel design
 
 #### ASIC and FPGA
-- Low-power inference acceleration using HLS or RTL design
-- High computing performance training accelerator
+- Low-power inference acceleration using RTL/HLS design
+- High computing performance interfence/training accelerator
 
-#### PIM (NDP)
-- DIMM and HMC based neural acceleration system
-- Non-HBM based design
+#### Near-data Processing (NDP)
+- Data processing unit for neural network acceleration
+- Non-HBM based implementation or research
 
 ## Paper List (17)
 ### Processor based Acceleration (9)
