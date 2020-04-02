@@ -42,7 +42,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	1. TensorDIMM: A Practical Near-Memory Processing Architecture for Embeddings and Tensor Operations in Deep Learning, MICRO, 2019
 
 ### Benchmark (1)
-	1. MLPerf: An Industry Standard Benchmark Suite for Machine Learning Performance,. MICRO, 2020
+	1. MLPerf: An Industry Standard Benchmark Suite for Machine Learning Performance, MICRO, 2020
 	
 ## Presentation with Video
 ### Week1: Introduction (April 13, 2020)
