@@ -29,6 +29,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	11. PatDNN: Achieving Real-Time DNN Execution on Mobile Devices with Pattern-based Weight Pruning, ASLOPS, 2020
 	12. FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System, ASLOPS, 2020
 	13. GPU-Accelerated Atari Emulation for Reinforcement Learning, arxiv, 2019 
+	14. https://arxiv.org/abs/2003.13630, arxiv, 2020
 
 ### Dedicated neural network accelerator (5)
 	1. Caffeine: Toward Uniformed Representation and Acceleration for Deep Convolutional Neural Networks, IEEE TCAD, 2019
