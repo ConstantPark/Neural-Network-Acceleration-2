@@ -15,18 +15,20 @@ This is a repository of the study "neural network acceleration". The goal of thi
 - Non-HBM based implementation or research
 
 ## Paper List (17)
-### CPU and GPU based Acceleration (9)
+### CPU/GPU/NPU based Acceleration (9)
 	CPU, GPU, and special system based acceleration (Parallel computing, Distribution computing)
-	1. AccUDNN: A GPU Memory Efficient Accelerator for Training Ultra-deep Neural Networks, arxiv, 2019.
-	2. Zion: Facebook Next-Generation Large-memory Unified Training Platform, HotChips, 2019.
-	3. µLayer:Low Latency On-Device Inference Using Cooperative Single-Layer Acceleration and Processor-Friendly Quantization, EuroSys, 2019.
-	4. Scalpel: Customizing DNN pruning to the underlying hardware parallelism, ISCA, 2017.
-	5. MOSAIC: Heterogeneity-, Communication-, and Constraint-Aware Model Slicing and Execution for Accurate and Efficient Inference, PACT, 2019.
-	6. Optimal DNN Primitive Selection with Partitioned Boolean quadratic Programming, ACM CGO, 2019.
-	7. Neural Network Inference on Mobile SoCs, Arxiv 2019.
-	8. Learning to infer: RL-based search for DNN primitive selection on Heterogeneous Embedded Systems, DATE, 2019.
-	9. Performance analysis of CNN frameworks for GPUs, ISPASS, 2018.
-  
+	1. Capuchin: Tensor-based GPU Memory Management for Deep Learning, ASLPOS, 2020
+	2. Parallax: Sparsity-aware Data Parallel Training of Deep Neural Networks, EuroSys, 2019
+	3. GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism, NIPS, 2019
+	4. DeepRebirth: Accelerating Deep Neural Network Execution on Mobile Devices, AAAI, 2018
+	5. OC-DNN: Exploiting Advanced Unified Memory Capabilities in CUDA 9 and Volta GPUs for Out-of-Core DNN Training, HiPC, 2018
+	6. Acorns: A Framework for Accelerating Deep Neural Networks with Input Sparsity, PACT, 2019
+	7. Edge AI: On-Demand Accelerating Deep Neural Network Inference via Edge Computing, IEEE TWC, 2019
+	8. Balanced Sparsity for Efficient DNN Inference on GPU, AAAI, 2019
+	9. DWM: A Decomposable Winograd Method for Convolution Acceleration, AAAI, 2020
+	10. Split-CNN: Splitting Window-based Operations in Convolutional Neural Networks for Memory System Optimization, ASLOPS, 2020
+	11. PatDNN: Achieving Real-Time DNN Execution on Mobile Devices with Pattern-based Weight Pruning, ASLOPS, 2020
+	12. FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System, ASLOPS 2020
 
 ### ASIC and FPGA (6)
 	1. Cambricon: An instruction set architecture for neural networks, ISCA, 2016.
