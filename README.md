@@ -2,7 +2,7 @@
 This is a repository of the study "neural network acceleration". The goal of this study is to understand the acceleration of nerual networks on various devices. The topic of acceleration includes `CPU`, `GPU`, `NPU`, `ASIC`, `FPGA`, and `NDP`. Our materials are open to this github and youtube. This study is supported by Facebook community, "AI Robitcs Korea".
 
 #### CPU/GPU, NPU, and distributed computing
-- Fast acceleration of inference/trining on general processor (CPU/GPU)
+- Fast acceleration of inference/training on general processor (CPU/GPU)
 - Distributed computing for large training system
 - Heterogeneous system architecture (HSA) device
 
