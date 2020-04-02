@@ -27,9 +27,8 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	10. Split-CNN: Splitting Window-based Operations in Convolutional Neural Networks for Memory System Optimization, ASLOPS, 2020
 	11. PatDNN: Achieving Real-Time DNN Execution on Mobile Devices with Pattern-based Weight Pruning, ASLOPS, 2020
 	12. FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System, ASLOPS, 2020
-	13. GPU-Accelerated Atari Emulation for Reinforcement Learning, arXiv, 2019 
-	14. TResNet: High Performance GPU-Dedicated Architecture, arXiv, 2020
-
+	13. Neural Network Inference on Mobile SoC, arXiv, 2020
+	14. Learning to infer: RL-based search for DNN primitive selection on Heterogeneous Embedded Systems, DATE, 2019
 ### Dedicated neural network accelerator (5)
 	1. Caffeine: Toward Uniformed Representation and Acceleration for Deep Convolutional Neural Networks, IEEE TCAD, 2019
 	2. MnnFast: a fast and scalable system architecture for memory-augmented neural networks, ISCA, 2019
