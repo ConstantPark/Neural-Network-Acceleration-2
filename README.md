@@ -43,11 +43,11 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	1. MLPerf: An Industry Standard Benchmark Suite for Machine Learning Performance, MICRO, 2020
 	
 ## Presentation with Video
-### Week1: Introduction (April 13, 2020)
+### Week1: Introduction (April 14, 2020)
 **GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism**
 
 	Presenter: Constant Park (http://esoc.hanyang.ac.kr/people/sangsoo_park/index.html)  
-	PPT: 
+	PPT: https://github.com/ConstantPark/Neural-Network-Acceleration-2/blob/master/GPipe_Easy%20Scaling%20with%20Micro%20Batch%20Pipeline%20Parallelism.pdf
 	Video: 
 
 
