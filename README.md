@@ -50,6 +50,19 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	PPT: https://github.com/ConstantPark/Neural-Network-Acceleration-2/blob/master/GPipe_Easy%20Scaling%20with%20Micro%20Batch%20Pipeline%20Parallelism.pdf
 	Video: https://youtu.be/jIW4zoF0pOo
 
+### Week2: Neural Acceleration on SoC and  (April 28, 2020)
+**Neural Network Inference on Mobile SoC**
+
+	Presenter: 전지예 ()  
+	PPT: 
+	Video: 
+	
+**Capuchin: Tensor-based GPU Memory Management for Deep Learning**
+
+	Presenter: 문정우 ()  
+	PPT: 
+	Video: 
+
 
 ## Contributors
 **Main Contributor**: Constant Park (sonicstage12@naver.com), Louis Lee (louislee111@naver.com), 이재윤 (v2fds@naver.com), Hyuntak Lim (loo3944@naver.com)
