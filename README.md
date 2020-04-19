@@ -48,7 +48,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 
 	Presenter: Constant Park (http://esoc.hanyang.ac.kr/people/sangsoo_park/index.html)  
 	PPT: https://github.com/ConstantPark/Neural-Network-Acceleration-2/blob/master/GPipe_Easy%20Scaling%20with%20Micro%20Batch%20Pipeline%20Parallelism.pdf
-	Video: 
+	Video: https://youtu.be/jIW4zoF0pOo
 
 
 ## Contributors
