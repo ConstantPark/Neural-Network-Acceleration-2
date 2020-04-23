@@ -59,7 +59,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	
 **Capuchin: Tensor-based GPU Memory Management for Deep Learning**
 
-	Presenter: 문정우 ()  
+	Presenter: 문정우 (jwmjw9009@naver.com)  
 	PPT: 
 	Video: 
 
@@ -67,4 +67,4 @@ This is a repository of the study "neural network acceleration". The goal of thi
 ## Contributors
 **Main Contributor**: Constant Park (sonicstage12@naver.com), Louis Lee (louislee111@naver.com), 이재윤 (v2fds@naver.com), Hyuntak Lim (loo3944@naver.com), Yongwoo Kim (yongwoo.kim@smu.ac.kr), Jemin Lee (leejaymin@etri.re.kr)
 
-**Presenters**: Constant Park (sonicstage12@naver.com), Louis Lee (louislee111@naver.com), 이재윤 (v2fds@naver.com), Hyuntak Lim (loo3944@naver.com), Yongwoo Kim (yongwoo.kim@smu.ac.kr), Jemin Lee (leejaymin@etri.re.kr)
+**Presenters**: Constant Park (sonicstage12@naver.com), Louis Lee (louislee111@naver.com), 이재윤 (v2fds@naver.com), Hyuntak Lim (loo3944@naver.com), Yongwoo Kim (yongwoo.kim@smu.ac.kr), Jemin Lee (leejaymin@etri.re.kr),  (jwmjw9009@naver.com)
