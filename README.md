@@ -54,7 +54,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 **Neural Network Inference on Mobile SoC**
 
 	Presenter: 전지예 (jyeah05@gmail.com)  
-	PPT: 
+	PPT: https://github.com/ConstantPark/Neural-Network-Acceleration-2/blob/master/Neural_Network_Inference_on_Mobile_SoCs.pdf
 	Video: 
 	
 **Capuchin: Tensor-based GPU Memory Management for Deep Learning**
