@@ -60,7 +60,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 **Capuchin: Tensor-based GPU Memory Management for Deep Learning**
 
 	Presenter: 문정우 (jwmjw9009@naver.com)  
-	PPT: 
+	PPT: https://github.com/ConstantPark/Neural-Network-Acceleration-2/blob/master/Capuchin%20Tensor-based%20GPU%20Memory%20Management%20for%20Deep%20Learning.pdf 
 	Video: 
 
 
