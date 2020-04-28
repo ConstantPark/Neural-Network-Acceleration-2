@@ -53,7 +53,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 ### Week2: Neural Acceleration on SoC and  (April 28, 2020)
 **Neural Network Inference on Mobile SoC**
 
-	Presenter: 전지예 ()  
+	Presenter: 전지예 (jyeah05@gmail.com)  
 	PPT: 
 	Video: 
 	
