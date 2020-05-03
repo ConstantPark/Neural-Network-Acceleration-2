@@ -63,6 +63,18 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	PPT: https://github.com/ConstantPark/Neural-Network-Acceleration-2/blob/master/Capuchin%20Tensor-based%20GPU%20Memory%20Management%20for%20Deep%20Learning.pdf 
 	Video: https://youtu.be/Cxm7wNoT3gw
 
+### Week3: Neural Acceleration on SoC and  (May 12, 2020)
+**Acorns: A Framework for Accelerating Deep Neural Networks with Input Sparsity**
+
+	Presenter: 이원혁 ()
+	PPT: 
+	Video: 
+	
+**CMLPerf: An Industry Standard Benchmark Suite for Machine Learning Performance**
+
+	Presenter: 이제민   
+	PPT: 
+	Video: 
 
 ## Contributors
 **Main Contributor**: Constant Park (sonicstage12@naver.com), Louis Lee (louislee111@naver.com), 이재윤 (v2fds@naver.com), Hyuntak Lim (loo3944@naver.com), Yongwoo Kim (yongwoo.kim@smu.ac.kr), Jemin Lee (leejaymin@etri.re.kr) , 전지예 (jyeah05@gmail.com)
