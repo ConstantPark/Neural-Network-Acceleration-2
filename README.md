@@ -50,7 +50,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	PPT: https://github.com/ConstantPark/Neural-Network-Acceleration-2/blob/master/GPipe_Easy%20Scaling%20with%20Micro%20Batch%20Pipeline%20Parallelism.pdf
 	Video: https://youtu.be/jIW4zoF0pOo
 
-### Week2: Neural Acceleration on SoC and  (April 28, 2020)
+### Week2: Neural Network Acceleration on SoC and  (April 28, 2020)
 **Neural Network Inference on Mobile SoC**
 
 	Presenter: 전지예 (jyeah05@gmail.com)  
@@ -63,10 +63,10 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	PPT: https://github.com/ConstantPark/Neural-Network-Acceleration-2/blob/master/Capuchin%20Tensor-based%20GPU%20Memory%20Management%20for%20Deep%20Learning.pdf 
 	Video: https://youtu.be/Cxm7wNoT3gw
 
-### Week3: Neural Acceleration and Benchmark (May 12, 2020)
+### Week3: Neural Network Acceleration and Benchmark (May 12, 2020)
 **Acorns: A Framework for Accelerating Deep Neural Networks with Input Sparsity**
 
-	Presenter: 이원혁 ()
+	Presenter: 이원혁 (louislee111@naver.com)
 	PPT: 
 	Video: 
 	
@@ -77,6 +77,6 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	Video: 
 
 ## Contributors
-**Main Contributor**: Constant Park (sonicstage12@naver.com), Louis Lee (louislee111@naver.com), 이재윤 (v2fds@naver.com), Hyuntak Lim (loo3944@naver.com), Yongwoo Kim (yongwoo.kim@smu.ac.kr), Jemin Lee (leejaymin@etri.re.kr), 전지예 (jyeah05@gmail.com)
+**Main Contributor**: Constant Park (sonicstage12@naver.com), 이원혁 (louislee111@naver.com), 이재윤 (v2fds@naver.com), Hyuntak Lim (loo3944@naver.com), Yongwoo Kim (yongwoo.kim@smu.ac.kr), Jemin Lee (leejaymin@etri.re.kr), 전지예 (jyeah05@gmail.com)
 
-**Presenters**: Constant Park (sonicstage12@naver.com), Louis Lee (louislee111@naver.com), 이재윤 (v2fds@naver.com), Hyuntak Lim (loo3944@naver.com), Yongwoo Kim (yongwoo.kim@smu.ac.kr), Jemin Lee (leejaymin@etri.re.kr), 문정우 (jwmjw9009@naver.com), 전지예 (jyeah05@gmail.com)
+**Presenters**: Constant Park (sonicstage12@naver.com), 이원혁 (louislee111@naver.com), 이재윤 (v2fds@naver.com), Hyuntak Lim (loo3944@naver.com), Yongwoo Kim (yongwoo.kim@smu.ac.kr), Jemin Lee (leejaymin@etri.re.kr), 문정우 (jwmjw9009@naver.com), 전지예 (jyeah05@gmail.com)
