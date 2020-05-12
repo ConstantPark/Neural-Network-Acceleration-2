@@ -72,7 +72,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	
 **MLPerf: An Industry Standard Benchmark Suite for Machine Learning Performance**
 
-	Presenter: 이제민   
+	Presenter: 이제민 (leejaymin@cnu.ac.kr)   
 	PPT: https://github.com/ConstantPark/Neural-Network-Acceleration-2/blob/master/MLPerf_An%20Industry%20Standard%20Benchmark%20Suite%20for%20Machine%20Learning%20Performance.pdf
 	Video: 
 
