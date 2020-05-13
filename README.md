@@ -68,7 +68,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 
 	Presenter: 이원혁 (louislee111@naver.com)
 	PPT: https://github.com/ConstantPark/Neural-Network-Acceleration-2/blob/master/Acorns_%20A%20Framework%20for%20Accelerating%20Deep%20Neural%20Networks%20with%20Input%20Sparsity.pdf
-	Video: 
+	Video: https://youtu.be/fKYkHxiz1zk
 	
 **MLPerf: An Industry Standard Benchmark Suite for Machine Learning Performance**
 
