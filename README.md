@@ -80,12 +80,26 @@ This is a repository of the study "neural network acceleration". The goal of thi
 **MnnFast: a fast and scalable system architecture for memory-augmented neural networks**
 
 	Presenter: 이재윤 
-	PPT: 
-	Video: https://youtu.be/fKYkHxiz1zk
+	PPT: https://github.com/ConstantPark/Neural-Network-Acceleration-2/blob/master/MnnFast_A%20fast%20and%20scalable%20system%20architecture%20for%20memory-augmented%20neural%20networks.pdf
+	Video: 
 	
 **Split-CNN: Splitting Window-based Operations in Convolutional Neural Networks for Memory System Optimization**
 
 	Presenter: 임현택
+	PPT: https://github.com/ConstantPark/Neural-Network-Acceleration-2/blob/master/Split-CNN_Splitting%20Window-based%20Operations%20in%20Convolutional%20Neural%20Networks%20for%20Memory%20System%20Optimization.pdf
+	Video: 
+	
+	
+### Week5: Neural Network Acceleration (June 09, 2020)
+**FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System**
+
+	Presenter: 김석중 
+	PPT: 
+	Video: 
+	
+**PatDNN: Achieving Real-Time DNN Execution on Mobile Devices with Pattern-based Weight Pruning**
+
+	Presenter: 김다운
 	PPT: 
 	Video: 
 	
