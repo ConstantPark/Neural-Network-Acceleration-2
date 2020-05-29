@@ -76,6 +76,19 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	PPT: https://github.com/ConstantPark/Neural-Network-Acceleration-2/blob/master/MLPerf_An%20Industry%20Standard%20Benchmark%20Suite%20for%20Machine%20Learning%20Performance.pdf
 	Video: https://youtu.be/JU0gCTFe3Bg
 
+### Week4: Neural Network Acceleration (May 26, 2020)
+**MnnFast: a fast and scalable system architecture for memory-augmented neural networks**
+
+	Presenter: 이재윤 
+	PPT: 
+	Video: https://youtu.be/fKYkHxiz1zk
+	
+**Split-CNN: Splitting Window-based Operations in Convolutional Neural Networks for Memory System Optimization**
+
+	Presenter: 임현택
+	PPT: 
+	Video: 
+	
 ## Contributors
 **Main Contributor**: Constant Park (sonicstage12@naver.com), 이원혁 (louislee111@naver.com), 이재윤 (v2fds@naver.com), Hyuntak Lim (loo3944@naver.com), Yongwoo Kim (yongwoo.kim@smu.ac.kr), Jemin Lee (leejaymin@etri.re.kr), 전지예 (jyeah05@gmail.com)
 
