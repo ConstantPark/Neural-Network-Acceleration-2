@@ -81,13 +81,13 @@ This is a repository of the study "neural network acceleration". The goal of thi
 
 	Presenter: 이재윤 (v2fds@naver.com)
 	PPT: https://github.com/ConstantPark/Neural-Network-Acceleration-2/blob/master/MnnFast_A%20fast%20and%20scalable%20system%20architecture%20for%20memory-augmented%20neural%20networks.pdf
-	Video: 
+	Video: https://youtu.be/kLyoEFvZBu8
 	
 **Split-CNN: Splitting Window-based Operations in Convolutional Neural Networks for Memory System Optimization**
 
 	Presenter: 임현택 (loo3944@naver.com)
 	PPT: https://github.com/ConstantPark/Neural-Network-Acceleration-2/blob/master/Split-CNN_Splitting%20Window-based%20Operations%20in%20Convolutional%20Neural%20Networks%20for%20Memory%20System%20Optimization.pdf
-	Video: 
+	Video: https://youtu.be/deN3ZpwDp3g
 	
 	
 ### Week5: Neural Network Acceleration (June 09, 2020)
