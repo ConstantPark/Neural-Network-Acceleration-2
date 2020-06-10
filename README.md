@@ -94,13 +94,13 @@ This is a repository of the study "neural network acceleration". The goal of thi
 **FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System**
 
 	Presenter: 김석중 
-	PPT: 
+	PPT: https://github.com/ConstantPark/Neural-Network-Acceleration-2/blob/master/FlexTensor%20An%20Automatic%20Schedule%20Exploration%20and%20Optimization%20Framework%20for%20Tensor%20Computation%20on%20Heterogeneous%20System.pdf
 	Video: 
 	
 **PatDNN: Achieving Real-Time DNN Execution on Mobile Devices with Pattern-based Weight Pruning**
 
 	Presenter: 김다운
-	PPT: 
+	PPT: https://github.com/ConstantPark/Neural-Network-Acceleration-2/blob/master/PatDNN_Achieving_Real_Time_DNN_Execution_on_Mobile_Devices_with_Pattern_based_Weight_Pruning.pdf
 	Video: 
 	
 ## Contributors
