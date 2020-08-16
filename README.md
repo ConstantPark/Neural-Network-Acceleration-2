@@ -103,8 +103,18 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	PPT: https://github.com/ConstantPark/Neural-Network-Acceleration-2/blob/master/PatDNN_Achieving_Real_Time_DNN_Execution_on_Mobile_Devices_with_Pattern_based_Weight_Pruning.pdf
 	Video: https://youtu.be/8cN4PE3ME-M
 //
-## Week6: Neural Network Acceleration (July 21, 2020)
+
+## Week6: Neural Network Acceleration (July 23, 2020)
 **DeepRebirth: Accelerating Deep Neural Network Execution on Mobile Devices**
+
+김영은 
+DeepRebirth: Accelerating Deep Neural Network Execution on Mobile Devices
+
+김용우
+Edge AI: On-Demand Accelerating Deep Neural Network Inference via Edge Computing
+
+## Week7: Neural Network Acceleration (July 21, 2020)
+**Deep Learning Acceleration with Neuron-to-Memory Transformation**
 
 	Presenter: 김영범 
 	PPT: 
