@@ -110,7 +110,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	PPT: 
 	Video: https://youtu.be/5VCwW5doX04
 	
-**Edge AI: On-Demand Accelerating Deep Neural Network Inference via Edge Computing**
+**Balanced Sparsity for Efficient DNN Inference on GPU**
 
 	Presenter: 박준상
 	PPT: 
