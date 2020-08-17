@@ -126,15 +126,15 @@ This is a repository of the study "neural network acceleration". The goal of thi
 **Balanced Sparsity for Efficient DNN Inference on GPU**
 
 	Presenter: 박준상
-	PPT: 
+	PPT: https://github.com/ConstantPark/Neural-Network-Acceleration-2/blob/master/Balanced%20Sparsity%20for%20Efficient%20DNN%20Inference%20on%20GPU.pdf 
 	Video: 
 
 ## Week8: Neural Network Acceleration (Aug 04, 2020)
 **DWM: A Decomposable Winograd Method for Convolution Acceleration**
 
 	Presenter: 이상헌 
-	PPT: 
-	Video: 
+	PPT: https://github.com/ConstantPark/Neural-Network-Acceleration-2/blob/master/DWM_A_Decomposable_Winograd_Method_for_Convolution_Acceleration.pdf
+	Video: https://youtu.be/eWbzfTrxelE
 
 ## Contributors
 **Main Contributor**: Constant Park (sonicstage12@naver.com), 이원혁 (louislee111@naver.com), 이재윤 (v2fds@naver.com), Hyuntak Lim (loo3944@naver.com), Yongwoo Kim (yongwoo.kim@smu.ac.kr), Jemin Lee (leejaymin@etri.re.kr), 전지예 (jyeah05@gmail.com)
