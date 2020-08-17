@@ -108,13 +108,13 @@ This is a repository of the study "neural network acceleration". The goal of thi
 
 	Presenter: 김영은
 	PPT: https://github.com/ConstantPark/Neural-Network-Acceleration-2/blob/master/DeepRebirth_%20Accelerating%20Deep%20Neural%20Network%20Execution%20on%20Mobile%20Devices.pdf
-	Video: 
+	Video: https://youtu.be/ARBUx-ZO0-w
 
 **Edge AI: On-Demand Accelerating Deep Neural Network Inference via Edge Computing**
 
 	Presenter: 김용우
 	PPT: https://github.com/ConstantPark/Neural-Network-Acceleration-2/blob/master/EdgeAI_On-Demand_Accelerating_Deep_Neural_Network_Inference_via_Edge_Computing.pdf
-	Video: 
+	Video: https://youtu.be/zzD31fq9-Tk
 
 ## Week7: Neural Network Acceleration (July 21, 2020)
 **Deep Learning Acceleration with Neuron-to-Memory Transformation**
