@@ -102,36 +102,39 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	Presenter: 김다운
 	PPT: https://github.com/ConstantPark/Neural-Network-Acceleration-2/blob/master/PatDNN_Achieving_Real_Time_DNN_Execution_on_Mobile_Devices_with_Pattern_based_Weight_Pruning.pdf
 	Video: https://youtu.be/8cN4PE3ME-M
-//
 
 ## Week6: Neural Network Acceleration (July 23, 2020)
 **DeepRebirth: Accelerating Deep Neural Network Execution on Mobile Devices**
 
-김영은 
-DeepRebirth: Accelerating Deep Neural Network Execution on Mobile Devices
+	Presenter: 김영은
+	PPT: 
+	Video: 
 
-김용우
-Edge AI: On-Demand Accelerating Deep Neural Network Inference via Edge Computing
+**Edge AI: On-Demand Accelerating Deep Neural Network Inference via Edge Computing**
+
+	Presenter: 김용우
+	PPT: 
+	Video: 
 
 ## Week7: Neural Network Acceleration (July 21, 2020)
 **Deep Learning Acceleration with Neuron-to-Memory Transformation**
 
 	Presenter: 김영범 
 	PPT: 
-	Video: https://youtu.be/5VCwW5doX04
+	Video: 
 	
 **Balanced Sparsity for Efficient DNN Inference on GPU**
 
 	Presenter: 박준상
 	PPT: 
-	Video: https://youtu.be/8cN4PE3ME-M
+	Video: 
 
-## Week7: Neural Network Acceleration (Aug 04, 2020)
-**DeepRebirth: Accelerating Deep Neural Network Execution on Mobile Devices**
+## Week8: Neural Network Acceleration (Aug 04, 2020)
+**DWM: A Decomposable Winograd Method for Convolution Acceleration**
 
 	Presenter: 이상헌 
 	PPT: 
-	Video: https://youtu.be/5VCwW5doX04
+	Video: 
 
 ## Contributors
 **Main Contributor**: Constant Park (sonicstage12@naver.com), 이원혁 (louislee111@naver.com), 이재윤 (v2fds@naver.com), Hyuntak Lim (loo3944@naver.com), Yongwoo Kim (yongwoo.kim@smu.ac.kr), Jemin Lee (leejaymin@etri.re.kr), 전지예 (jyeah05@gmail.com)
