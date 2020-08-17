@@ -120,14 +120,14 @@ This is a repository of the study "neural network acceleration". The goal of thi
 **Deep Learning Acceleration with Neuron-to-Memory Transformation**
 
 	Presenter: 김영범 
-	PPT: 
+	PPT: https://youtu.be/jRBawb4yfAQ
 	Video: 
 	
 **Balanced Sparsity for Efficient DNN Inference on GPU**
 
 	Presenter: 박준상
 	PPT: https://github.com/ConstantPark/Neural-Network-Acceleration-2/blob/master/Balanced%20Sparsity%20for%20Efficient%20DNN%20Inference%20on%20GPU.pdf 
-	Video: 
+	Video: https://youtu.be/jFIjpYN2gK4
 
 ## Week8: Neural Network Acceleration (Aug 04, 2020)
 **DWM: A Decomposable Winograd Method for Convolution Acceleration**
