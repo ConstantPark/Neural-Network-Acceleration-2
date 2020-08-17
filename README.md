@@ -120,8 +120,8 @@ This is a repository of the study "neural network acceleration". The goal of thi
 **Deep Learning Acceleration with Neuron-to-Memory Transformation**
 
 	Presenter: 김영범 
-	PPT: https://youtu.be/jRBawb4yfAQ
-	Video: 
+	PPT: -
+	Video: https://youtu.be/jRBawb4yfAQ
 	
 **Balanced Sparsity for Efficient DNN Inference on GPU**
 
